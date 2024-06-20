@@ -2,11 +2,19 @@
   box-sizing: border-box;
 }
 h1 {
-  margin: auto;
+  margin: 1em;
   text-align: center;
 }
 .row {
   width: 100%;
+}
+.row>div {
+  background-color: gray;
+  margin: 1em;
+}
+div>section {
+  position: relative;
+  right: 0px;
 }
 /* Desktop */
 @media (min-width: 992px) {
