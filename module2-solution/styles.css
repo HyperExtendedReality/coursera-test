@@ -5,6 +5,9 @@ h1 {
   margin: auto;
   text-align: center;
 }
+.row {
+  width: 100%;
+}
 /* Desktop */
 @media (min-width: 992px) {
   .col-lg {
