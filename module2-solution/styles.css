@@ -14,8 +14,9 @@ h1 {
 }
 div>section {
   position: relative;
-  float: right;
+  right: 1em;
   margin: 1em;
+  border: 1px solid black;
 }
 div>p {
   margin: 1em;
