@@ -19,7 +19,6 @@ div>section {
 /* Desktop */
 @media (min-width: 992px) {
   .col-lg {
-    float: left;
     border: 1px solid black;
     width: 33.33%;
   }
@@ -27,7 +26,6 @@ div>section {
 /* Tablet */
 @media (min-width: 768px) and (max-width: 991px) {
   .col-md {
-    float: left;
     border: 1px solid black;
     width: 50%;
   }
@@ -35,7 +33,6 @@ div>section {
 /* Mobile */
 @media (max-width: 767px) {
   .col-sm {
-    float: left;
     border: 1px solid black;
     width: 100%;
   }
