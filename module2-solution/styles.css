@@ -6,3 +6,33 @@
 #menubox {
   
 }
+/* Desktop */
+@media (min-width: 1200px) {
+  .col-lg-1 {
+    float: left;
+    border: 1px solid green;
+  }
+  .col-lg-1 {
+    width: 8.33%;
+  }
+}
+/* Tablet */
+@media (min-width: 1200px) {
+  .col-lg-1 {
+    float: left;
+    border: 1px solid green;
+  }
+  .col-lg-1 {
+    width: 8.33%;
+  }
+}
+/* Mobile */
+@media (min-width: 1200px) {
+  .col-lg-1 {
+    float: left;
+    border: 1px solid green;
+  }
+  .col-lg-1 {
+    width: 8.33%;
+  }
+}
