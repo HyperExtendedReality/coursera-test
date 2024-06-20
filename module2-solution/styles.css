@@ -10,11 +10,11 @@ h1 {
 }
 .row>div {
   background-color: gray;
-  margin: 1em;
+  margin: 15px;
 }
 div>section {
   position: relative;
-  right: 0px;
+  float: right;
 }
 /* Desktop */
 @media (min-width: 992px) {
