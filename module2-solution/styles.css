@@ -16,7 +16,7 @@ h1 {
     width: 33.33%;
 }
 /* Tablet */
-@media (min-width: 768px) {
+@media (min-width: 768px) and (max-width: 991px) {
   .col-md {
     float: left;
     border: 1px solid black;
