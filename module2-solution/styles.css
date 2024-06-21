@@ -13,12 +13,13 @@ h1 {
   margin: 1em;
 }
 div>section {
-  position: relative;
+  position: absolute;
+  top: 0px;
   right: 0px;
   border: 1px solid black;
 }
 div>p {
-  margin: 1em;
+  padding: 10px;
 }
 /* Desktop */
 @media (min-width: 992px) {
