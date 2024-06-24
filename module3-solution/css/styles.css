@@ -20,7 +20,6 @@ body {
   border: 1.5px black solid;
   background-color: gray;
   color: black;
-  text-align: center;
 }
 #nav-list a:hover {
   background: #E7E7E7;
@@ -40,7 +39,7 @@ body {
 	width: 100%;
 }
 h2 {
-	margin: 1em 1em;
+	margin: 1em;
 }
 section {
   margin: 1em 1em;
